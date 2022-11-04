@@ -1,0 +1,46 @@
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\bin\Debug\ejercicio01.exe.config
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\bin\Debug\ejercicio01.exe
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\bin\Debug\ejercicio01.pdb
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\bin\Debug\ejercicio01.xml
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.vbproj.AssemblyReference.cache
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.Gestor.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.InsertarDepartamento.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.Resources.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.vbproj.GenerateResource.cache
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.vbproj.CoreCompileInputs.cache
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.exe
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.xml
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.pdb
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.InsertarEmpleado.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio01\ejercicio01\obj\Debug\ejercicio01.VerEmpresa.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\bin\Debug\ejercicio01.exe.config
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\bin\Debug\ejercicio01.exe
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\bin\Debug\ejercicio01.pdb
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\bin\Debug\ejercicio01.xml
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.vbproj.AssemblyReference.cache
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.Gestor.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.InsertarDepartamento.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.InsertarEmpleado.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.Resources.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.VerEmpresa.resources
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.vbproj.GenerateResource.cache
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.vbproj.CoreCompileInputs.cache
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.exe
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.xml
+G:\Mi unidad\148.DI\1.VB.net\2.ejercicios\soluciones\4.Formulario\ejercicio02\ejercicio01\obj\Debug\ejercicio01.pdb
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\bin\Debug\ejercicio01.exe.config
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\bin\Debug\ejercicio01.exe
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\bin\Debug\ejercicio01.pdb
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\bin\Debug\ejercicio01.xml
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.vbproj.AssemblyReference.cache
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.vbproj.SuggestedBindingRedirects.cache
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.Gestor.resources
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.InsertarDepartamento.resources
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.InsertarEmpleado.resources
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.Resources.resources
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.VerEmpresa.resources
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.vbproj.GenerateResource.cache
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.vbproj.CoreCompileInputs.cache
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.exe
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.xml
+C:\Users\8fdam10\Documents\2DAM\practicas.net\ejercicios\5.ModeloVistaControlador\ejercicio02\ejercicio01\obj\Debug\ejercicio01.pdb
